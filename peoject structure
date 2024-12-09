@@ -1,0 +1,8 @@
+kdd-cup-1999-analysis/
+│
+├── kdd_cup_1999_analysis.py
+├── requirements.txt
+├── README.md
+├── processed_kdd.csv
+├── model_diagram.png
+└── NN_model.h5
